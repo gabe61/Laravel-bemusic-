@@ -1,0 +1,4 @@
+*
+!.gitignore
+!.htaccess
+!symlink_test.txt
